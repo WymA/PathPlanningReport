@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{deb2001multi}
+Kalyanmoy Deb.
+\newblock Multi-objective optimization.
+\newblock {\em Multi-objective optimization using evolutionary algorithms},
+  pages 13--46, 2001.
+
+\bibitem{deb2000fast}
+Kalyanmoy Deb, Samir Agrawal, Amrit Pratap, and Tanaka Meyarivan.
+\newblock A fast elitist non-dominated sorting genetic algorithm for
+  multi-objective optimization: Nsga-ii.
+\newblock {\em Lecture notes in computer science}, 1917:849--858, 2000.
+
+\bibitem{deb2002fastelitist}
+Kalyanmoy Deb, Amrit Pratap, Sameer Agarwal, and TAMT Meyarivan.
+\newblock A fast and elitist multiobjective genetic algorithm: Nsga-ii.
+\newblock {\em Evolutionary Computation, IEEE Transactions on}, 6(2):182--197,
+  2002.
+
+\bibitem{zhang2007moea}
+Qingfu Zhang and Hui Li.
+\newblock Moea/d: A multiobjective evolutionary algorithm based on
+  decomposition.
+\newblock {\em Evolutionary Computation, IEEE Transactions on}, 11(6):712--731,
+  2007.
+
+\bibitem{weiqin2012efficient}
+YING Weiqin, XU~Xing, FENG Yuxiang, and WU~Yu.
+\newblock An efficient conical area evolutionary algorithm for bi-objective
+  optimization.
+\newblock {\em IEICE TRANSACTIONS on Fundamentals of Electronics,
+  Communications and Computer Sciences}, 95(8):1420--1425, 2012.
+
+\bibitem{zhou2011multiobjective}
+Aimin Zhou, Bo-Yang Qu, Hui Li, Shi-Zheng Zhao, Ponnuthurai~Nagaratnam
+  Suganthan, and Qingfu Zhang.
+\newblock Multiobjective evolutionary algorithms: A survey of the state of the
+  art.
+\newblock {\em Swarm and Evolutionary Computation}, 1(1):32--49, 2011.
+
+\bibitem{miettinen1999nonlinear}
+Kaisa Miettinen.
+\newblock {\em Nonlinear multiobjective optimization}, volume~12.
+\newblock Springer, 1999.
+
+\end{thebibliography}
